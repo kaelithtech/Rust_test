@@ -1,0 +1,4 @@
+/test
+/test.exe
+*.pdb
+.DS_Store
